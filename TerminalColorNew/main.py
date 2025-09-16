@@ -1,6 +1,5 @@
 from rich.console import Console
 from rich.style import Style
-from . import private
 
 
 console = Console()
